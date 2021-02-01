@@ -1,6 +1,5 @@
-# Use of Open-Source Intelligence (OSINT)
+# Checklist for Open-Source Intelligence (OSINT)
 
-## Data collected from publicly available sources to be used in an intelligence context.
 
 ## OSINT sources can be divided into different categories of information flow:
 
