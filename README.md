@@ -176,4 +176,3 @@
 - Unpublished Works
 - Newsletters
 
-*XMind - Trial Version*
